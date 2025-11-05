@@ -29,7 +29,6 @@ Además del pago correspondiente a lo establecido en la Ley Estatal de Derechos 
 - Comprobante de domicilio (No mayor a tres meses de antigüedad).
 - Examen Médico-Toxicológico u oficio dirigido al titular de la Secretaría, suscrito por el director y/o titular del área equivalente en el que haga constar que dentro de la institución donde se presta sus servicios el solicitante, ha sido sometido a estas pruebas cuyo resultado ha sido negativo.
 - Solicitud dirigida al titular de la Secretaría, suscrito por el director y/o titular del hospital o clínica, grupo de rescate o municipio, en el que solicita el trámite a favor del solicitante.
-----------------
 
 #### **Licencias tipo “F”**
 
@@ -40,8 +39,6 @@ Además del pago correspondiente a lo establecido en la Ley Estatal de Derechos 
 - Comprobante de domicilio (No mayor a tres meses de antigüedad).
 
 - Constancia médica expedida por una institución de Salud Pública, en la que se haga constar la condición física del solicitante o tarjetón emitido por el Sistema para el Desarrollo Integral de la Familia (DIF), Municipal o Estatal.
-
------------------
 
 #### **Licencias tipo “G”**
 
