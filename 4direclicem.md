@@ -65,7 +65,7 @@ Además del pago correspondiente a lo establecido en la Ley Estatal de Derechos 
 - Comprobante de domicilio vigente (No mayor a tres meses de antigüedad).
 - ***Nota:** En caso de que la estancia del solicitante sea temporal, solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo A y B. En caso de que la estancia en el país sea permanente se expedirá cualquier tipo de Licencia hasta por cinco años, excepto la licencia tipo “C” para servicio de transporte público*
 
----
+
 
 ### Renovación de licencias para conducir
 
@@ -121,7 +121,7 @@ La renovación procederá cuando se encuentre vencida.
 - Comprobante de domicilio vigente (No mayor a tres meses de antigüedad).
 - ***Nota:** En caso de que la estancia del solicitante sea temporal, solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo A y B. En caso de que la estancia en el país sea permanente se expedirá cualquier tipo de Licencia hasta por cinco años, excepto la licencia tipo “C” para servicio de transporte público*
 
----
+
 
 ### Reposición de licencias para conducir
 
@@ -131,7 +131,7 @@ Además del pago correspondiente a lo establecido en la ley Estatal de Derechos 
 
 - Identificación oficial vigente: Credencial para votar, pasaporte o cédula profesional (con fotografía).
 - Comprobante de domicilio (No mayor a tres meses de antigüedad).
----
+  
 #### **Licencias para extranjeros**
 
 - Pasaporte con vigencia mínima de dos años.
@@ -142,7 +142,6 @@ Además del pago correspondiente a lo establecido en la ley Estatal de Derechos 
 
 ***Nota:** La reposición de la licencia de manejo en cualquiera de sus tipos se realizará cuando sea extraviada o se encuentre en mal estado, cuando presente más de 365 días a la fecha de su vencimiento*
 
----
 
 ### Costos de licencias para conducir
 
